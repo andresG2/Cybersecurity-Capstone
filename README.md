@@ -40,6 +40,8 @@ We found that tensorflow has its own flaws. It often complains that GPUs are not
 resources from COLAB. We tried to SSH the resources from COLAB while using Cloudflare for SSH Tunnel security, but did not have sufficient time to 
 work out the bugs and configuration settings.
 
+https://drive.google.com/file/d/1KRyn3DP1jnn9-YT4xNQBkPsCrYdiWBVu/view?usp=share_link
+
 
 
 #### Outline of project
